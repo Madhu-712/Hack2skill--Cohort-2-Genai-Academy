@@ -473,6 +473,7 @@ enterpriseops-agent/
 ├── requirements.txt
 │
 ├── uv.lock
+|__ Assets
 │
 └── README.md
 ```

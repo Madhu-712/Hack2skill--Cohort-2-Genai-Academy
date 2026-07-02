@@ -98,26 +98,29 @@ https://console.cloud.google.com/agent-platform/runtimes/locations/us-central1/a
 > Replace these placeholders after uploading screenshots.
 
 ## Dashboard
+<img width="1470" height="1026" alt="enterpriseops dashboard-1" src="https://github.com/user-attachments/assets/cf359f93-84e0-4548-9dd2-03826b25bc1c" />
 
-![Dashboard](assets/dashboard.png)
 
 ---
 
 ## Multi-Agent Workflow
 
-![Workflow](assets/workflow.png)
+<img width="1470" height="1029" alt="MultiAgent Workflow" src="https://github.com/user-attachments/assets/54d9cbb7-ec1f-4a86-8b1c-6154ac2f5024" />
+
 
 ---
 
 ## Executive Summary
 
-![Executive Summary](assets/executive-summary.png)
+<img width="1470" height="1033" alt="Executive summary" src="https://github.com/user-attachments/assets/10b2049b-be19-4c2b-bcef-e3e055d0ac84" />
+
 
 ---
 
 ## Google Agent Runtime
 
-![Runtime](assets/runtime.png)
+<img width="1470" height="1033" alt="GoogleAgentRuntime" src="https://github.com/user-attachments/assets/22c88295-9dca-4259-9f3b-fae6539b87f7" />
+
 
 ---
 

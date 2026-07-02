@@ -576,6 +576,8 @@ curl -L -o toolbox https://storage.googleapis.com/mcp-toolbox-for-databases/v$VE
 
 chmod +x toolbox
 
+export BIGQUERY_PROJECT=geap-agent
+
 ./toolbox --prebuilt=bigquery --address=0.0.0.0 --port=8080
 ```
 

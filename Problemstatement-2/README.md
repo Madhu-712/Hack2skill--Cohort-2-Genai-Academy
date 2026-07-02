@@ -589,6 +589,8 @@ Open **Terminal 2**
 
 ```bash
 agents-cli playground
+OR
+uvx google-agents-cli playground
 ```
 
 Your Multi-Agent System is now ready.

@@ -34,6 +34,8 @@ Enterprise data is securely stored in **Google BigQuery**, while **BigQuery MCP*
 The application is deployed using **Google Agent Runtime**, which runs on **NVIDIA GPU-backed Google Cloud infrastructure** to provide scalable and responsive agent execution.
 **Google Agent Runtime** powered by high-performance **NVIDIA GPU**-backed infrastructure (such as H100 or Blackwell chips). By utilizing **NVIDIA Multi-Instance GPU (MIG)**, GEAP splits a single physical GPU into up to seven isolated hardware instances, ensuring that your agent's core reasoning loops, tool-calling execution, and safety filters run simultaneously on dedicated fractional GPU slices with absolute hardware-level isolation, zero resource contention, and guaranteed sub-second response times without instances interfearing with one another.
 
+By adopting sophasticated NVIDIA tech stack GCP's Vertex AI Engine  is  eliminating latency, improving throughput , overall performance , CPU and Memory allocation in few milli seconds.
+
 ---
 
 # 🎯 Problem Statement

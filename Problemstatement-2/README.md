@@ -644,6 +644,7 @@ EnterpriseOps-Agent can answer complex cross-functional business questions such 
 ## Step 11 -Deployment
 
 #1.Create a Service Account
+
 gcloud iam service-accounts create Enterpriseops-agent-sa \
 --project=geap-agent
 
@@ -666,6 +667,11 @@ Manage Agent Engine resources
 Deploy to Google Agent Runtime
 
 #3.Deploy the application using Google Agent Runtime.
+
+ uvx google-agents-cli deploy \
+  --service-account Enterpriseops-agent-sa@geap-agent.iam.gserviceaccount.com \
+  --region us-central1 \
+  --interactive
 
 The deployed architecture consists of:
 

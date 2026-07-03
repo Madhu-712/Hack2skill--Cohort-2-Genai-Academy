@@ -2,7 +2,7 @@ from google.cloud import bigquery
 import pandas as pd
 
 # =====================================
-# CONFIGURATION
+# CONFIGURATIONS
 # =====================================
 
 PROJECT_ID = "notebooklm-491108"

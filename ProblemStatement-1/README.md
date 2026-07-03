@@ -77,6 +77,9 @@ Unlike traditional travel applications that focus on bookings and itinerary gene
 
 The Government Planner dashboard helps public agencies forecast tourist inflows, identify infrastructure bottlenecks, and prioritize investments.
 
+<img width="1470" height="936" alt="govt dashboard" src="https://github.com/user-attachments/assets/1822a096-1a07-4550-8ee0-59c2f82a718b" />
+
+
 ---
 
 ### 🏨 Hospitality Provider Dashboard
@@ -84,6 +87,7 @@ The Government Planner dashboard helps public agencies forecast tourist inflows,
 ![Hospitality Dashboard](assets/hospitality_dashboard.png)
 
 The Hospitality Provider dashboard enables demand forecasting, occupancy analysis, workforce planning, and resource optimization.
+<img width="1470" height="951" alt="Hospitality-dashboard" src="https://github.com/user-attachments/assets/b62617ec-93de-4a90-927d-41a702d495a1" />
 
 ---
 

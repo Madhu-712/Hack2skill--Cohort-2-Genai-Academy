@@ -125,6 +125,9 @@ https://console.cloud.google.com/agent-platform/runtimes/locations/us-central1/a
 
 
 ---
+## Cloud Run deployment logs 
+<img width="1470" height="1140" alt="cloudrun logs" src="https://github.com/user-attachments/assets/d757aa03-d39a-4a9f-946d-9d795762646b" />
+
 
 # 👥 User Personas
 
